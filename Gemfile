@@ -7,6 +7,9 @@ ruby '3.0.3'
 gem 'rails', '~> 6.1.6', '>= 6.1.6.1'
 # Use postgresql as the database for Active Record
 gem 'pg', '~> 1.1'
+gem "autoprefixer-rails", "10.2.5"
+gem "font-awesome-sass", "~> 5.15"
+gem "simple_form", github: "heartcombo/simple_form"
 # Use Puma as the app server
 gem 'puma', '~> 5.0'
 # Use SCSS for stylesheets
