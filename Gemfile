@@ -22,6 +22,7 @@ gem 'pg', '>= 1.1', '< 2.0'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'dotenv-rails', groups: [:development, :test]
 gem 'cloudinary', '~> 1.16.0'
+gem 'devise'
 
 
 # Use Active Storage variant
